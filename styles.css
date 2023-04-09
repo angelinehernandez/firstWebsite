@@ -1,0 +1,35 @@
+.header {
+    background-color: aqua;
+    text-align: center;
+    font-size: 24px;
+}
+.h1-div {
+    text-align: center;
+    color: white;
+}
+#ol {
+    border: 2px solid purple;
+    padding: 5px;
+    margin: 50px;
+    color: white;
+}
+.ul {
+    border: 3px dotted pink;
+    padding: 5px;
+    margin: 50px;
+    color: white;
+}
+.anchors {
+    text-align: center;
+}
+.images {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    height: 50px; 
+    background-color: aquamarine;
+}
+.body {
+    background-color: blueviolet;
+}
